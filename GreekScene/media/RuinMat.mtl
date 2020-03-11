@@ -1,0 +1,13 @@
+# Blender MTL File: 'rip 1.blend'
+# Material Count: 1
+
+newmtl material_339
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 86d942c9.png

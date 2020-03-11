@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+  Source.cpp
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(247): warning C4305: 'argument': truncation from 'double' to 'irr::f32'
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(421): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=irr::f32
+          ]
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(468): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=irr::f32
+          ]
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(588): warning C4305: 'argument': truncation from 'double' to 'irr::f32'
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(614): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(633): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(652): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(671): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 69 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GreekScene.vcxproj -> C:\Users\Ben Hopgood\Desktop\Workly Files\GreekScene\ReleaseXP\GreekScene.exe

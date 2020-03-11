@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(247): warning C4305: 'argument': truncation from 'double' to 'irr::f32'
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(421): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=irr::f32
+          ]
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(468): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=irr::f32
+          ]
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(588): warning C4305: 'argument': truncation from 'double' to 'irr::f32'
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(614): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(633): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(652): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ben hopgood\desktop\workly files\greekscene\greekscene\source.cpp(671): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GreekScene.vcxproj -> C:\Users\Ben Hopgood\Desktop\Workly Files\GreekScene\Debug\GreekScene.exe
